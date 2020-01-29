@@ -1,3 +1,21 @@
-body {
-    background-color: green;
+.img {
+    float: left;
+    width: 250px;
+    height: 325px;
+    margin-right: 5%;
+    margin-left: 60px;
+}
+
+.about-text {
+    float: left;
+    margin-top: 10px;
+    width: 60%;
+    text-align: justify;
+}
+
+.box {
+    background-color: lightgray;
+    height: 500px;
+    margin-top: 11.1%;
+    padding: 2%;
 }
